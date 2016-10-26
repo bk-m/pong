@@ -1,0 +1,61 @@
+#can {
+    padding: 0;
+    margin: 0;
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 800px;
+    height: 600px;
+    background-color: #515151;
+    position: absolute;
+}
+
+#score1 {
+    padding: 0;
+    margin: 0;
+    margin-top: 10px;
+    width: 50px;
+    height: 50px;
+    background-color: #515151;
+    position: absolute;
+    top: 10px;
+    left: 335px;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    font-size: 42px;
+    text-align: center;
+    font-weight: bold;
+}
+
+#divider {
+    padding: 0;
+    margin: 0;
+    margin-top: 10px;
+    width: 10px;
+    height: 50px;
+    background-color: #515151;
+    position: absolute;
+    top: 5px;
+    left: 390px;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    font-size: 42px;
+    text-align: center;
+    font-weight: bold;
+}
+
+#score2 {
+    padding: 0;
+    margin: 0;
+    margin-top: 10px;
+    width: 50px;
+    height: 50px;
+    background-color: #515151;
+    position: absolute;
+    top: 10px;
+    left: 415px;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    font-size: 42px;
+    text-align: center;
+    font-weight: bold;
+}
